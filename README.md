@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/github/followers/zhizhuoshuma?style=social
+
 ![](https://github-readme-stats.vercel.app/api?username=zhizhuoshuma)
+![](https://img.shields.io/github/followers/zhizhuoshuma?style=social)
