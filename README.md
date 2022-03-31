@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 🔭 I am a network security enthusiasts after 00, welcome to come to exchange technology, take me.
 
 ![](https://img.shields.io/github/followers/zhizhuoshuma?style=social)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=nodejs&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Nodejs&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=vue&logoColor=ffffff)](https://reactjs.org/)
 
 ![info](https://github-readme-stats.vercel.app/api?username=zhizhuoshuma&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
