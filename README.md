@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/github/followers/zhizhuoshuma?style=social)
 
+![](https://img.shields.io/hackernews/user-karma/zhizhuoshuma?style=social)
+
 ![](https://github-readme-stats.vercel.app/api?username=zhizhuoshuma)
