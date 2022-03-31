@@ -28,20 +28,5 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@zhizhuoshuma.readme)
 
 
-
-# linux卡片
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-# mac卡片
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
- 
-# 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
- 
-# 程序语言
-
- ![:zhizhuoshuma](https://count.getloli.com/get/@:zhizhuoshuma?theme=gelbooru-h)
-
-# 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+![Metrics](https://metrics.lecoq.io/zhizhuoshuma?template=classic&isocalendar=1&languages=1&stargazers=1&habits=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&stargazers.charts.type=classic&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FShanghai)
 
